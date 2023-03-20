@@ -1,202 +1,115 @@
 [
   {
     "item_code": "A0143470",
-    "item_brand": "https://img.advice.co.th/images_nas/images/brand/amd-ryzen.png",
-    "item_brand_name": "AMD Ryzen",
     "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0143470/A0143470_1.jpg",
     "item_name": "CPU AMD AM4 RYZEN 5 4500",
-    "item_url": "https://www.advice.co.th/product/cpu/amd-am4/cpu-amd-am4-ryzen-5-4500",
     "item_spec": "3.6 GHz / Cores 6 / Threads 12 / No Integrated Graphics",
-    "item_product_type": "PRODUCT",
-    "product_type": "instock",
-    "item_inorder": 0
+    "item_product_type": "PRODUCT"
   },
   {
     "item_code": "A0145375",
-    "item_icon": "https://img.advice.co.th/images_nas/advice/icon/new/Re-Entry.png",
-    "item_icon_type": "re",
-    "item_brand": "https://img.advice.co.th/images_nas/images/brand/amd-ryzen.png",
-    "item_brand_name": "AMD Ryzen",
     "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0145375/A0145375_1.jpg",
     "item_name": "CPU AMD AM4 RYZEN 5 4600G (NEXT)",
-    "item_url": "https://www.advice.co.th/product/cpu/amd-am4/cpu-amd-am4-ryzen-5-4600g-next-",
     "item_spec": "3.7 GHz / Cores 6 / Threads 12 / Radeon Graphics",
-    "item_product_type": "PRODUCT",
-    "product_type": "instock",
-    "item_inorder": 0
+    "item_product_type": "PRODUCT"
   },
   {
     "item_code": "A0144107",
-    "item_icon": "https://img.advice.co.th/images_nas/advice/icon/new/Recommend.png",
-    "item_icon_type": "rec",
-    "item_brand": "https://img.advice.co.th/images_nas/images/brand/amd-ryzen.png",
-    "item_brand_name": "AMD Ryzen",
     "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0144107/A0144107_1.jpg",
     "item_name": "CPU AMD AM4 RYZEN 5 4600G",
-    "item_url": "https://www.advice.co.th/product/cpu/amd-am4/cpu-amd-am4-ryzen-5-4600g",
     "item_spec": "3.7 GHz / Cores 6 / Threads 12 / Radeon Graphics",
-    "item_product_type": "PRODUCT",
-    "product_type": "instock",
-    "item_inorder": 0
+    "item_product_type": "PRODUCT"
   },
   {
     "item_code": "A0135705",
-    "item_brand": "",
-    "item_brand_name": "Box-Next",
     "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0135705/A0135705_1.jpg",
     "item_name": "CPU AMD AM4 RYZEN 5 Pro 4650G (NEXT)",
-    "item_url": "https://www.advice.co.th/product/cpu/amd-am4/cpu-amd-am4-ryzen-5-pro-4650g-next-",
     "item_spec": "3.7 GHz / Cores 6 / Threads 12 / Radeon Graphics",
-    "item_product_type": "PRODUCT",
-    "product_type": "instock",
-    "item_inorder": 0
+    "item_product_type": "PRODUCT"
   },
   {
     "item_code": "A0145376",
-    "item_brand": "https://img.advice.co.th/images_nas/images/brand/amd-ryzen.png",
-    "item_brand_name": "AMD Ryzen",
     "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0145376/A0145376_1.jpg",
     "item_name": "CPU AMD AM4 RYZEN 5 5500 (NEXT)",
-    "item_url": "https://www.advice.co.th/product/cpu/amd-am4/cpu-amd-am4-ryzen-5-5500-next-",
     "item_spec": "3.6 GHz / Cores 6 / Threads 12 / No Integrated Graphics",
-    "item_product_type": "PRODUCT",
-    "product_type": "instock",
-    "item_inorder": 0
+    "item_product_type": "PRODUCT"
   },
   {
     "item_code": "A0143469",
-    "item_brand": "https://img.advice.co.th/images_nas/images/brand/amd-ryzen.png",
-    "item_brand_name": "AMD Ryzen",
     "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0143469/A0143469_1.jpg",
     "item_name": "CPU AMD AM4 RYZEN 5 5500",
-    "item_url": "https://www.advice.co.th/product/cpu/amd-am4/cpu-amd-am4-ryzen-5-5500",
     "item_spec": "3.6 GHz / Cores 6 / Threads 12 / No Integrated Graphics",
-    "item_product_type": "PRODUCT",
-    "product_type": "instock",
-    "item_inorder": 0
+    "item_product_type": "PRODUCT"
   },
   {
     "item_code": "A0143472",
-    "item_brand": "https://img.advice.co.th/images_nas/images/brand/amd-ryzen.png",
-    "item_brand_name": "AMD Ryzen",
     "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0143472/A0143472_1.jpg",
     "item_name": "CPU AMD AM4 RYZEN 5 5600",
-    "item_url": "https://www.advice.co.th/product/cpu/amd-am4/cpu-amd-am4-ryzen-5-5600",
     "item_spec": "3.5 GHz / Cores 6 / Threads 12 / No Integrated Graphics",
-    "item_product_type": "PRODUCT",
-    "product_type": "instock",
-    "item_inorder": 0
+    "item_product_type": "PRODUCT"
   },
   {
     "item_code": "A0137959",
-    "item_brand": "https://img.advice.co.th/images_nas/images/brand/amd-ryzen.png",
-    "item_brand_name": "AMD Ryzen",
     "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0137959/A0137959_1.jpg",
     "item_name": "CPU AMD AM4 RYZEN 5 5600G",
-    "item_url": "https://www.advice.co.th/product/cpu/amd-am4/cpu-amd-am4-ryzen-5-5600g",
     "item_spec": "3.9 GHz / Cores 6 / Threads 12 / Radeon Graphics",
-    "item_product_type": "PRODUCT",
-    "product_type": "instock",
-    "item_inorder": 0
+    "item_product_type": "PRODUCT"
   },
   {
     "item_code": "A0135574",
-    "item_brand": "",
-    "item_brand_name": "Box-Next",
     "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0135574/A0135574_1.jpg",
     "item_name": "CPU AMD AM4 RYZEN 5 5600X (NEXT)",
-    "item_url": "https://www.advice.co.th/product/cpu/amd-am4/cpu-amd-am4-ryzen-5-5600x-next-",
     "item_spec": "3.7 GHz / Cores 6 / Threads 12 / No Integrated Graphics",
-    "item_product_type": "PRODUCT",
-    "product_type": "instock",
-    "item_inorder": 0
+    "item_product_type": "PRODUCT"
   },
   {
     "item_code": "A0133525",
-    "item_brand": "https://img.advice.co.th/images_nas/images/brand/amd-ryzen.png",
-    "item_brand_name": "AMD Ryzen",
     "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0133525/A0133525_1.jpg",
     "item_name": "CPU AMD AM4 RYZEN 5 5600X",
-    "item_url": "https://www.advice.co.th/product/cpu/amd-am4/cpu-amd-am4-ryzen-5-5600x",
     "item_spec": "3.7 GHz / Cores 6 / Threads 12 / No Integrated Graphics",
-    "item_product_type": "PRODUCT",
-    "product_type": "instock",
-    "item_inorder": 0
+    "item_product_type": "PRODUCT"
   },
   {
     "item_code": "A0138599",
-    "item_brand": "",
-    "item_brand_name": "Box-Next",
     "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0138599/A0138599_1.jpg",
     "item_name": "CPU AMD AM4 RYZEN 7 Pro 4750G (NEXT)",
-    "item_url": "https://www.advice.co.th/product/cpu/amd-am4/cpu-amd-am4-ryzen-7-pro-4750g-next-",
     "item_spec": "3.6 GHz / Cores 8 / Threads 16 / Radeon Graphics",
     "item_product_type": "PRODUCT",
-    "product_type": "order_center",
-    "item_inorder": 0
+    "product_type": "order_center"
   },
   {
     "item_code": "A0138978",
-    "item_brand": "",
-    "item_brand_name": "Box-Next",
     "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0138978/A0138978_1.jpg",
     "item_name": "CPU AMD AM4 RYZEN 7 5700G (NEXT)",
-    "item_url": "https://www.advice.co.th/product/cpu/amd-am4/cpu-amd-am4-ryzen-7-5700g-next-",
     "item_spec": "3.8 GHz / Cores 8 / Threads 16 / Radeon Graphics",
-    "item_product_type": "PRODUCT",
-    "product_type": "instock",
-    "item_inorder": 0
+    "item_product_type": "PRODUCT"
   },
   {
     "item_code": "A0137961",
-    "item_brand": "https://img.advice.co.th/images_nas/images/brand/amd-ryzen.png",
-    "item_brand_name": "AMD Ryzen",
     "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0137961/A0137961_1.jpg",
     "item_name": "CPU AMD AM4 RYZEN 7 5700G",
-    "item_url": "https://www.advice.co.th/product/cpu/amd-am4/cpu-amd-am4-ryzen-7-5700g",
     "item_spec": "3.8 GHz / Cores 8 / Threads 16 / Radeon Graphics",
-    "item_product_type": "PRODUCT",
-    "product_type": "instock",
-    "item_inorder": 0
+    "item_product_type": "PRODUCT"
   },
   {
     "item_code": "A0143468",
-    "item_brand": "https://img.advice.co.th/images_nas/images/brand/amd-ryzen.png",
-    "item_brand_name": "AMD Ryzen",
     "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0143468/A0143468_1.jpg",
     "item_name": "CPU AMD AM4 RYZEN 7 5700X",
-    "item_url": "https://www.advice.co.th/product/cpu/amd-am4/cpu-amd-am4-ryzen-7-5700x",
     "item_spec": "3.4 GHz / Cores 8 / Threads 16 / No Integrated Graphics / No CPU Cooler",
-    "item_product_type": "PRODUCT",
-    "product_type": "instock",
-    "item_inorder": 0
+    "item_product_type": "PRODUCT"
   },
   {
     "item_code": "A0133526",
-    "item_icon": "https://img.advice.co.th/images_nas/advice/icon/new/Recommend.png",
-    "item_icon_type": "rec",
-    "item_brand": "https://img.advice.co.th/images_nas/images/brand/amd-ryzen.png",
-    "item_brand_name": "AMD Ryzen",
     "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0133526/A0133526_1.jpg",
     "item_name": "CPU AMD AM4 RYZEN 7 5800X",
-    "item_url": "https://www.advice.co.th/product/cpu/amd-am4/cpu-amd-am4-ryzen-7-5800x",
     "item_spec": "3.8 GHz / Cores 8 / Threads 16 / No Integrated Graphics / No CPU Cooler",
-    "item_product_type": "PRODUCT",
-    "product_type": "instock",
-    "item_inorder": 0
+    "item_product_type": "PRODUCT"
   },
   {
     "item_code": "A0133527",
-    "item_icon": "https://img.advice.co.th/images_nas/advice/icon/new/Recommend.png",
-    "item_icon_type": "rec",
-    "item_brand": "https://img.advice.co.th/images_nas/images/brand/amd-ryzen.png",
-    "item_brand_name": "AMD Ryzen",
     "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0133527/A0133527_1.jpg",
     "item_name": "CPU AMD AM4 RYZEN 9 5900X",
-    "item_url": "https://www.advice.co.th/product/cpu/amd-am4/cpu-amd-am4-ryzen-9-5900x",
     "item_spec": "3.7 GHz / Cores 12 / Threads 24 / No Integrated Graphics / No CPU Cooler",
-    "item_product_type": "PRODUCT",
-    "product_type": "instock",
-    "item_inorder": 0
+    "item_product_type": "PRODUCT"
   }
 ]
