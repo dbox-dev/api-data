@@ -1,35 +1,35 @@
 {
   "products": [
     {
-      "item_code": "A0143470",
+      "id": "A0143470",
       "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0143470/A0143470_1.jpg",
       "item_name": "CPU AMD AM4 RYZEN 5 4500",
       "item_spec": "3.6 GHz / Cores 6 / Threads 12 / No Integrated Graphics",
       "item_product_type": "PRODUCT"
     },
     {
-      "item_code": "A0145375",
+      "id": "A0145375",
       "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0145375/A0145375_1.jpg",
       "item_name": "CPU AMD AM4 RYZEN 5 4600G (NEXT)",
       "item_spec": "3.7 GHz / Cores 6 / Threads 12 / Radeon Graphics",
       "item_product_type": "PRODUCT"
     },
     {
-      "item_code": "A0144107",
+      "id": "A0144107",
       "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0144107/A0144107_1.jpg",
       "item_name": "CPU AMD AM4 RYZEN 5 4600G",
       "item_spec": "3.7 GHz / Cores 6 / Threads 12 / Radeon Graphics",
       "item_product_type": "PRODUCT"
     },
     {
-      "item_code": "A0135705",
+      "id": "A0135705",
       "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0135705/A0135705_1.jpg",
       "item_name": "CPU AMD AM4 RYZEN 5 Pro 4650G (NEXT)",
       "item_spec": "3.7 GHz / Cores 6 / Threads 12 / Radeon Graphics",
       "item_product_type": "PRODUCT"
     },
     {
-      "item_code": "A0145376",
+      "id": "A0145376",
       "item_img": "https://img.advice.co.th/images_nas/pic_product4/A0145376/A0145376_1.jpg",
       "item_name": "CPU AMD AM4 RYZEN 5 5500 (NEXT)",
       "item_spec": "3.6 GHz / Cores 6 / Threads 12 / No Integrated Graphics",
