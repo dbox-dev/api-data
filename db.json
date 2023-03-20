@@ -113,5 +113,9 @@
       "item_spec": "3.7 GHz / Cores 12 / Threads 24 / No Integrated Graphics / No CPU Cooler",
       "item_product_type": "PRODUCT"
     }
-  ]
+  ],
+  "users": {
+    "username": "user1",
+    "password": "12345"
+  }
 }
